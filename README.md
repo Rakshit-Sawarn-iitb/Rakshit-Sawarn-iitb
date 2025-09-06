@@ -1,6 +1,7 @@
 ### Hi, I'm Rakshit 👋  
 
 🎓 **Pre-final Year @ IIT Bombay** (B.Tech. in Chemical Engineering, Minor in AI & Data Science)
+Incoming SDE Intern @ Amazon
 📊 **Analyst Intern @ Crescentis Capital** – working at the intersection of **finance, data automation & private equity**  
 🔬 **Research Intern @ NTU, Singapore** – working on multilingual **speaker diarization pipelines** using LLMs, embeddings & voice conversion  
 💼 **Ex-ML Intern @ NoQS Digital** – built tumor detection CNNs on MRI reports (F1-score: 0.99)  
