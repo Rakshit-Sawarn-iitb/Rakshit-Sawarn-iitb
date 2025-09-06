@@ -22,11 +22,6 @@
 - **Systems**: Scalable microservice architectures with FastAPI, Express, MongoDB, Next.js  
 - **Finance + AI**: Pairs trading, option pricing, market prediction models  
 
-### ⚡ Tech Stack  
-- **Languages:** Python, C++, TypeScript, JavaScript, SQL  
-- **Frameworks:** PyTorch, Django, Flask, DRF, React, Vue, Next.js  
-- **ML/NLP:** HuggingFace, LangChain, FAISS, Scikit-learn, Pandas  
-
 ---
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rakshit-sawarn-65793a291/) | [GitHub](https://github.com/Rakshit-Sawarn-iitb)  
