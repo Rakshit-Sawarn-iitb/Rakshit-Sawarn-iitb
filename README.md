@@ -14,7 +14,7 @@
   - Developed tumor detection CNNs on MRI reports 
 
 - **Founder @ Cipher Solutions**  
-  - Designing AI systems for law & finance with scalable RAG pipelines  
+  - Designing AI systems for law & finance with scalable pipelines  
   - **Endorsed by Mumbai Police** for real-world impact  
 
 ### 🛠️ What I Work On  
